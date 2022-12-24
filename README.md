@@ -1,4 +1,4 @@
-# The Lengendary four
+# The Legendary Four. "Автоматизация и мониторинг в энергетике"
 *Команда не участвует в конкурсе*
 ## ✔ Landing Page:
 [Landing Page]()
